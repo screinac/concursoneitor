@@ -65,7 +65,7 @@ export default function Home() {
   }, [enunciado]);
 
   return (
-    <main className="block m-5">
+    <main className="block m-5 bg-black text-white">
       <h1 className="text-2xl text-amber-100 mb-3">Concursoneitor</h1>
       <p className="mb-5 text-lg">{enunciado.enunciado}</p>
 
