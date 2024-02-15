@@ -14,7 +14,7 @@ const Opcion = ({ opciones, respuesta, revelar, setRevelar }) => {
                   ? "bg-green-500"
                   : "bg-red-500"
                 : "bg-none"
-            } border-solid border-2 border-amber-100 rounded-md mb-4 p-2`}
+            } border-solid border-2 border-amber-300 rounded-md mb-4 p-2`}
             onClick={() => setRevelar(true)}
           >
             {opcion}
