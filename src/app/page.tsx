@@ -66,7 +66,7 @@ export default function Home() {
 
   return (
     <main className="block m-5 ">
-      <h1 className="text-2xl text-amber-300 mb-3">Concursoneitor</h1>
+      <h1 className="text-2xl text-amber-500 mb-3">Concursoneitor</h1>
       <p className="mb-5 text-lg">{enunciado.enunciado}</p>
 
       <div>
