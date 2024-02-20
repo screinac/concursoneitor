@@ -27,6 +27,9 @@ const frases = [
 ];
 
 export default function Home() {
+  //racha
+  const [racha, setRacha] = useState(0);
+
   //frases motivacionales
   const [frase, setFrase] = useState(frases[numFrase]);
 
@@ -88,13 +91,35 @@ export default function Home() {
       setEnunciado(data[randAux]);
       initRand = false;
     }
+    // lee racha del buscador
+    const dataFromLocalStorage = localStorage.getItem("racha");
+    if (dataFromLocalStorage) {
+      setRacha(parseInt(dataFromLocalStorage));
+    }
+
     setPregunta(enunciado.preguntas[preguntaActual]);
   }, [enunciado]);
 
   return (
     <main className="block m-5 ">
       <h1 className="text-4xl font-bold text-amber-500 mb-3">Concursoneitor</h1>
-      <p className="text-amber-500 mb-3">{frase}</p>
+
+      <p className="text-amber-500 mb-1">{frase}</p>
+
+      {racha > 10 ? (
+        <p className="mb-3 text-amber-400">
+          RACHAAA MOSCAA: <strong className="text-xl">{racha}</strong>
+        </p>
+      ) : racha > 3 ? (
+        <p className="mb-3 text-amber-400">
+          RACHAAA: <strong className="text-xl">{racha}</strong>
+        </p>
+      ) : (
+        <p className="mb-3 text-amber-400">
+          Racha: <strong className="text-xl">{racha}</strong>
+        </p>
+      )}
+
       <p className="mb-5 text-lg">{enunciado.enunciado}</p>
 
       <div>
@@ -105,6 +130,8 @@ export default function Home() {
           revelar={revelar}
           setRevelar={setRevelar}
           feedback={pregunta.feedback}
+          racha={racha}
+          setRacha={setRacha}
         ></Opcion>
       </div>
 

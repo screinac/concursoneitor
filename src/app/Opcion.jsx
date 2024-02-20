@@ -1,7 +1,15 @@
 "use client";
 import React, { useEffect, useState } from "react";
 
-const Opcion = ({ opciones, respuesta, revelar, setRevelar, feedback }) => {
+const Opcion = ({
+  opciones,
+  respuesta,
+  revelar,
+  setRevelar,
+  feedback,
+  racha,
+  setRacha,
+}) => {
   const [opcionesAleatorias, setOpcionesAleatorias] = useState([]);
   useEffect(() => {
     // Generar una copia del arreglo original para no modificarlo directamente
@@ -27,7 +35,18 @@ const Opcion = ({ opciones, respuesta, revelar, setRevelar, feedback }) => {
                   : "bg-red-500"
                 : "bg-none"
             } border-solid border-2 border-amber-300 rounded-md mb-4 p-2`}
-            onClick={() => setRevelar(true)}
+            onClick={() => {
+              setRevelar(true);
+              if (
+                indice === opcionesAleatorias.indexOf(opciones[respuesta - 1])
+              ) {
+                localStorage.setItem("racha", racha + 1);
+                setRacha(racha + 1);
+              } else {
+                localStorage.setItem("racha", 0);
+                setRacha(0);
+              }
+            }}
           >
             {opcion}
           </button>

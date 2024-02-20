@@ -860,7 +860,7 @@ export const data = [
           "Naturaleza efímera y cotidiana de dicha publicación",
           "Naturaleza caótica y dispersa de dicha publicación",
         ],
-        respuesta: 1,
+        respuesta: 3,
         feedback:
           "La expresión 'un periódico se lee para el olvido' se refiere a la naturaleza efímera y cotidiana de dicha publicación, esto quiere decir, que como es un texto de publicación diaria, lo que allí se lee un día queda inmediatamente reemplazado por lo de la nueva publicación del día siguiente",
       },
