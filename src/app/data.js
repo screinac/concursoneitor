@@ -12,6 +12,7 @@ export const data = [
           "La implementación del sistema de gestión documental ha mejorado la administración y el control de los documentos, reducido la seguridad y garantizado la confidencialidad de los documentos.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
@@ -22,6 +23,7 @@ export const data = [
           "Se han instalado cámaras de vigilancia en todos los departamentos de la entidad, se han emitido órdenes de restricción de acceso a la información",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -32,6 +34,7 @@ export const data = [
           "definir los requerimientos de interoperabilidad con el sistema de control de acceso implementado en la entidad.",
         ],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -48,6 +51,7 @@ export const data = [
           "La empresa no está cometiendo ningún delito, pues la ley colombiana permite transferir activos al extranjero siempre y cuando hagan parte de las actividades comerciales de la empresa.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -58,6 +62,7 @@ export const data = [
           "Se ha cometido el delito de evasión de impuestos, pues la empresa ha utilizado prácticas ilegales no con la intensión de evadir el pago de impuestos, sino con el propósito de ahorrar dinero.",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -68,6 +73,7 @@ export const data = [
           "Se trata de una actividad ilegal mediante la cual la empresa ahorra dinero declarando un valor diferente del producto adquirido.",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -84,6 +90,7 @@ export const data = [
           "talento humano, porque aborda las políticas y herramientas para gestionar adecuadamente el ciclo del servidor público (ingreso, desarrollo y retiro), resaltando la importancia de su labor y permitiendo su bienestar.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -94,6 +101,7 @@ export const data = [
           "gestión con valores para el resultado, porque asocia a los aspectos relevantes para una adecuada operación de la organización por una parte y la relación Estado Ciudadano por otra.",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -104,6 +112,7 @@ export const data = [
           "gestión con valores para el resultado, porque asocia a los aspectos relevantes para una adecuada operación de la organización por una parte y la relación Estado Ciudadano por otra.",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -120,6 +129,7 @@ export const data = [
           "mejorar los procesos de vinculación de personal garantizando el ingreso de personas confiables.",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -130,6 +140,7 @@ export const data = [
           "Tener en cuenta los antecedentes del servidor público",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -140,6 +151,7 @@ export const data = [
           "multas, inhabilidad para ejercer cargos o funciones públicas, suspensión temporal de empleo o cargo público, destitución, destitución con inhabilitación para el ejercicio de cargos o funciones públicas disminución salarial, separación del empleo o cargo.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
@@ -150,6 +162,7 @@ export const data = [
           "honestidad, imparcialidad, responsabilidad, eficiencia, respeto por la ley, transparencia y rendición de cuentas.",
         ],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -166,6 +179,7 @@ export const data = [
           "De manera incorrecta, porque los usuarios debes verificar que tienen la documentación completa antes de dirigirse a la entidad.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -176,6 +190,7 @@ export const data = [
           "el funcionario debió orientar al ciudadano de manera adecuada para que pueda acudir a la entidad que corresponde.",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -186,6 +201,7 @@ export const data = [
           "consultaron con sus superiores para determinar el procedimiento y los requisitos necesarios para llevar a cabo el trámite",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -202,6 +218,7 @@ export const data = [
           "abrir Microsoft Outlook, En la barra de navegación hacer clic en lista de distribución, hacer clic en la flecha desplegable junto a Nuevo, hacer clic en nueva lista, luego ingresar los nombres de los destinatarios, hacer clic en el botón Guardar y cerrar.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -212,12 +229,14 @@ export const data = [
           "abrir el correo electrónico, hacer clic derecho en el archivo adjunto comprimido, Seleccione la opción “Extraer todos los archivos”, Haga clic en el botón 'Aceptar' para guardar el archivo descomprimido.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
           "para generar la reunión con el equipo de trabajo, el líder decide utilizar el comando abreviado:",
         opciones: ["Ctrl+Mayús+R", "Ctrl+Mayús+N", "Ctrl+Mayús+Q"],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -234,12 +253,14 @@ export const data = [
           "Establecer un sistema transparente para la selección de los empleados que recibirán los incentivos, que incluya la participación de empleados de diferentes niveles de la organización.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
           "según el análisis realizado a la situación presentada, usted identifica que han sido violados varios principios del Código de ética de los servidores públicos de la DIAN, entre los cuales no está:",
         opciones: ["Honestidad", "Tolerancia", "Respeto"],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -250,6 +271,7 @@ export const data = [
           "hacer ajustes al programa de incentivos para garantizar que todos los funcionarios sean tratados de manera justa y equitativa.",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -260,6 +282,7 @@ export const data = [
           "Prevalencia del ser sobre el tener y el representar",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -272,6 +295,7 @@ export const data = [
           "el funcionario encargado de atender la petición recibe el requerimiento 8 días hábiles después de haber sido radicado y verifica que de acuerdo con la normatividad citada aún dispone para atender la solicitud de:",
         opciones: ["2 días hábiles", "7 días hábiles", "12 días hábiles"],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -282,6 +306,7 @@ export const data = [
           "Eliminación del cargo en la entidad.",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -298,6 +323,7 @@ export const data = [
           "establecer un control de cambio para evitar especulación",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -308,6 +334,7 @@ export const data = [
           "prohibir la compra y venta de divisas en el mercado.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta: "para disminuir la volatilidad el mercado, usted propone:",
@@ -317,6 +344,7 @@ export const data = [
           "establecer controles a los ingresos de capital al país.",
         ],
         respuesta: 2,
+        feedback: "",
       },
     ],
   },
@@ -333,6 +361,7 @@ export const data = [
           "definir un mecanismo que permita identificar la propuesta económica de menor valor, de esta manera se estaría garantizando el principio de economía",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -343,6 +372,7 @@ export const data = [
           "establecer las normas y procedimientos adecuados para la selección de los proveedores en función de los requerimientos técnicos del contrato",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -353,6 +383,7 @@ export const data = [
           "la publicación de los resultados de la evaluación de las propuestas",
         ],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -369,6 +400,7 @@ export const data = [
           "negociar una disminución en los intereses que le permita disminuir la deuda.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -379,12 +411,14 @@ export const data = [
           "artículo 145 del Código de Cobro Coactivo.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
           "durante la consulta de normatividad relacionada con su caso, el contribuyente encuentra un que la acción de cobro de las obligaciones fiscales prescribe, en un término contado a partir de la fecha de vencimiento del término para declarar, fijado por el Gobierno Nacional, para las declaraciones presentadas oportunamente, este termino es:",
         opciones: ["3 años.", "5 años.", "10 años."],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -395,6 +429,7 @@ export const data = [
           "bienes indispensables para el ejercicio de su profesión",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -405,6 +440,7 @@ export const data = [
           "el contribuyente solicite un acuerdo de pago aún teniendo los recursos para cubrir la deuda.",
         ],
         respuesta: 1,
+        feedback: "",
       },
     ],
   },
@@ -421,6 +457,7 @@ export const data = [
           "Intentar contactar al contador y convencerlo de rendir una declaración donde lo exima de responsabilidades.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -431,6 +468,7 @@ export const data = [
           "multas, sanciones administrativas e imputaciones penales.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
@@ -441,6 +479,7 @@ export const data = [
           "Preparar una solicitud de reconsideración, presentar la solicitud de reconsideración ante la entidad, esperar el acto administrativo que resuelve la solicitud, cumplir los requisitos para evitar la multa impositiva.",
         ],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -457,6 +496,7 @@ export const data = [
           "Formulario de actualización del RUT autenticado y documento de identificación original.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -467,12 +507,14 @@ export const data = [
           "nombre, apellido, número de documento de identificación, dirección, teléfono y cuenta bancaria",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
           "en relación con la normatividad consultada, todo lo que necesitaba saber a cerca del RUT lo encontró en el estatuto tributario, artículo:",
         opciones: ["222-1", "555-2", "223-2"],
         respuesta: 2,
+        feedback: "",
       },
     ],
   },
@@ -489,6 +531,7 @@ export const data = [
           "legalidad, imparcialidad, publicidad y eficacia",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
@@ -499,6 +542,7 @@ export const data = [
           "Acción de tutela.",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -509,6 +553,7 @@ export const data = [
           "Acción de nulidad",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -519,6 +564,7 @@ export const data = [
           "una referencia a la competencia de la autoridad para dictar el acto; una descripción precisa de los hechos y circunstancias en que se basa el acto; la motivación del acto; y la mención de los derechos y obligaciones que se derivan del acto.",
         ],
         respuesta: 3,
+        feedback: "",
       },
     ],
   },
@@ -535,6 +581,7 @@ export const data = [
           "el acuerdo 060 de 2001 del Archivo General de la Nación",
         ],
         respuesta: 3,
+        feedback: "",
       },
       {
         pregunta:
@@ -545,6 +592,7 @@ export const data = [
           "no establecer procedimientos para la administración de correo electrónico personal en comunicaciones oficiales.",
         ],
         respuesta: 1,
+        feedback: "",
       },
       {
         pregunta:
@@ -555,6 +603,7 @@ export const data = [
           "establecer una política de seguridad para la administración de comunicaciones, afín de garantizar la integridad de las comunicaciones",
         ],
         respuesta: 2,
+        feedback: "",
       },
       {
         pregunta:
@@ -565,6 +614,574 @@ export const data = [
           "asegurarse de que todas las comunicaciones sean clasificadas y archivadas de forma adecuada",
         ],
         respuesta: 2,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario debe clasificar la construcción de indicadores para un proceso dentro de las acciones de mejora que se deben registrar en el plan de mejoramiento, este procedimiento debe realizarse conforme a las etapas del ciclo de la mejora continua. Al clasificar esta acción, el funcionario la ubica en la etapa de: Actuar, porque con base en los indicadores se desarrollan las",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Actuar, porque con base en los indicadores se desarrollan las actividades a ejecutar dentro del proceso.",
+          "Hacer, pues los indicadores son dispositivos que conforman la misión de la gestión institucional.",
+          "Verificar, porque los indicadores son una herramienta útil para contrastar lo planeado con lo ejecutado",
+          "Planear, pues los indicadores permiten relacionar la planeación con la ejecución de la gestión",
+        ],
+        respuesta: 4,
+        feedback:
+          "Al momento de formular indicadores se deben tener claro los Objetivos, Planes, Programas y Proyectos",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "En la identificación de la documentación de un sistema, se encuentra un informe que describe las actividades específicas para desarrollar un proceso del área donde labora. Este documento contiene un objetivo, alcance y un diagrama de flujo de las actividades, de igual manera identifica los responsables. Se requiere clasificar dicho documento, por lo cual usted señala que es un",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Proceso, dado que describe las entradas y salidas en el flujo",
+          "Procedimiento, dado que contiene y describe actividades",
+          "Documento, ya que tiene un objetivo y desarrolla actividades",
+          "Actividad, puesto que detalla y especifica procesos",
+        ],
+        respuesta: 2,
+        feedback:
+          "Un procedimiento es una forma específica para llevar a cabo una actividad o un proceso. Conforme lo expresado en el contexto la opción correcta es procedimiento dado que en ellos se describe una gran actividad o varias actividades de un proceso",
+      },
+    ],
+  },
+  {
+    enunciado:
+      " La función disciplinaria garantiza que la conducta de los servidores públicos y de los particulares que ejercen funciones públicas se adecue a los fines y funciones del Estado, con acciones encaminadas a prevenir y corregir comportamientos que los transgredan. En el caso en el que un servidor público incremente su patrimonio durante el ejercicio de su cargo, debe explicarlo cuando sea requerido de forma inmediata y satisfactoria ante el",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Jefe inmediato, Procuraduría General de la Nación o Defensoría",
+          "Jefe inmediato, Recursos Humanos o Control Interno",
+          "Nominador, Contraloría General de la Nación o Defensoría",
+          "Nominador, Procuraduría General de la Nación o Personería.",
+        ],
+        respuesta: 4,
+        feedback:
+          "Según la Ley 734 del 13 de febrero de 2002 es deber del servidor público explicar la procedencia del incremento patrimonial obtenido durante el ejercicio del cargo, función o servicio, de forma inmediata y satisfactoriamente al nominador, a la Procuraduría General de la Nación o a la personería, cuando estos lo requieran.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Dado que la Carta Política establece medios judiciales de defensa a los ciudadanos colombianos, de los cuales se destaca la acción de tutela. Dicho medio de defensa se define como",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Un medio jurídico que busca proteger los derechos y los intereses colectivos a causa de acciones u omisiones que causen daño",
+          "Una figura jurídica, que se utiliza para hacer efectivo el cumplimiento de una ley o de un acto administrativo",
+          "Un recurso especial, del cual se hace uso ante cualquier autoridad judicial para obtener la libertad",
+          "Un mecanismo breve que busca proteger los derechos fundamentales constitucionales antes las autoridades judiciales.",
+        ],
+        respuesta: 4,
+        feedback:
+          "Según la Ley 734 del 13 de febrero de 2002 es deber del servidor público explicar la procedencia del incremento patrimonial obtenido durante el ejercicio del cargo, función o servicio, de forma inmediata y satisfactoriamente al nominador, a la Procuraduría General de la Nación o a la personería, cuando estos lo requieran",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La administración pública rinde cuentas de diversas formas, y una de ellas es por medio de la medición de indicadores, entre ellos los de eficiencia, que definen su foco de acción en:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "El examen de costos en los que incurren las entidades públicas para lograr sus objetivos y resultados",
+          "Los análisis financieros de las ejecuciones presupuestales de los últimos tres (3) años. ",
+          "La revisión permanente de los egresos con relación a los recursos disponibles en bancos.",
+          "La validez del tipo de gasto con respecto a las acciones establecidas en los bancos de proyectos.",
+        ],
+        respuesta: 1,
+        feedback:
+          "Al momento de rendir cuentas es importante relacionar el cumplimiento de los indicadores con el presupuesto invertido para dicho cumplimiento, siempre se busca cumplir al 100% los indicadores con el menor presupuesto posible.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El artículo 130 de la Constitución Política, hace referencia a un órgano autónomo e independiente al que se le ha encargado la función especíAca de administrar y vigilar los regímenes de carrera, excepción hecha de los de origen constitucional. Con la creación de dicho órgano se busca que fuera ajeno a las inUuencias de otras instancias del poder público, para asegurar que el sistema de concurso de méritos para la provisión de los empleos en los órganos y entidades del Estado, para el ascenso dentro de los mismos y para el retiro del servicio, se lleve a cabo de manera transparente, idónea e imparcial, conforme con los postulados constitucionales y legales que regulan la materia. El propósito constitucional, por lo tanto, es asegurar que los procesos de selección de personal se adelanten sin presiones de ninguna clase y lejos de los intereses políticos o burocráticos. Estos procesos hacen referencia a:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "La Procuraduría General de la Nación",
+          "Los Consejos Superiores de la Judicatura",
+          "La Comisión Nacional del Servicio Civil",
+          "La Contraloría General de la República ",
+        ],
+        respuesta: 3,
+        feedback:
+          "El artículo 130 y todo el texto hacen referencia a la Comisión Nacional del Servicio Civil",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El Estado colombiano, en repetidas ocasiones, se ha visto afectado por la falta de principios y valores humanos de los servidores que laboran en las entidades públicas, por el abandono moral y el desvío de la conducta ética, derivados, en parte, por la falta de conciencia en la responsabilidad social de su ejercicio. Ante esta situación, es deber de los servidores",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Velar por la protección de la integridad del espacio público",
+          "Proponer las iniciativas que estime útiles para el mejoramiento del servicio",
+          "Planificar el manejo y aprovechamiento de los recursos",
+          "Resolver los asuntos, independiente del orden que vayan ingresando a su dependencia",
+        ],
+        respuesta: 2,
+        feedback:
+          "Ley 734 del 13 de febrero de 2002 Capítulo segundo, Artículo 34. Indica que son deberes de todo servidor público: Poner en conocimiento del superior los hechos que puedan perjudicar el funcionamiento de la administración y proponer las iniciativas que estime útiles para el mejoramiento del servicio",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un servidor público del orden municipal está siendo investigado disciplinariamente. La indagación preliminar fue ordenada mediante auto con fecha del 5 de Marzo de 2013 y la investigación disciplinaria fue ordenada mediante auto con fecha del 4 de Marzo de 2014. Con fundamento en ello, la fecha de prescripción de la acción disciplinaria es el:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "3 de marzo de 2019",
+          "3 de marzo de 2018",
+          "4 de marzo de 2018",
+          "5 de marzo de 2018.",
+        ],
+        respuesta: 1,
+        feedback:
+          " El artículo 30 de la Ley 734 de 2002 señala lo siguiente: 'La acción disciplinaria prescribirá en cinco (5) años contados a partir del auto de apertura de la acción disciplinaria'",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El esfuerzo más reciente para promover la eficiencia y calidad en la gestión pública, se encuentra en el artículo 133 de la Ley 1753 de 2015 que adopta del Plan Nacional de Desarrollo 2014-2018 'Todos por un Nuevo país', en donde se prevé la necesidad de contemplar un nuevo modelo de gestión. Según esta intención el nuevo modelo pretende, entre otros temas: ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Servir de referencia a todas las administraciones del orden nacional, municipal y distrital para implementar nuevos esquemas y procesos de gestión, que atiendan de manera eficiente y oportuna las misión aliada des que la normatividad vigente les delegó, encaminadas al cumplimiento de la finalidad del Estado",
+          "Contar con un modelo de gestión que permitan a las entidades públicas del orden nacional, municipal y distrital mejorar los servicios a la ciudadanía, eliminar trámites que optimicen la prestación de los servicios y determinar los lineamientos del papel de las Oficinas de Control Interno en el seguimiento y grado de cumplimiento del MIPG.",
+          "Integrar en un solo Sistema de Gestión, los Sistemas de Gestión de la Calidad de qué trata la ley 852 de 2003 y de Desarrollo Administrativo de que trata la Ley 498 de 1998",
+          "Articular los Sistemas Nacional e Institucional de Control Interno consagrado en la Ley 87 de 1993 y en los artículos 27 al 29 de la Ley 489 de 1998, de tal manera que permita el fortalecimiento de los mecanismos, métodos y procedimientos de control al interior de los organismos y entidades del estado.",
+        ],
+        respuesta: 4,
+        feedback:
+          "Resolución Interna No. 0678 - DNP: El Sistema de Gestión deberá articularse con los Sistemas Nacional e Institucional de Control Interno consagrado en la Ley 87 de 1993 y en los artículos 27 al 29 de la Ley 489 de 1998, de tal manera que permita el fortalecimiento de los mecanismos, métodos y procedimientos de control al interior de los organismos y entidades del Estado'.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Dentro de los avances de la integración del Modelo Integrado de Planeación y Gestión se destaca la simplificación de los requisitos impuestos por políticas relacionadas con planeación y gestión (varias de las cuales fueron incorporadas como políticas de desarrollo administrativo del MIPG), con la disminución de los requerimientos de reporte respectivos y la implementación de mecanismos de coordinación y articulación entre las distintas entidades responsables de las políticas de desarrollo administrativo que lo componen. Por esta razón, como lección aprendida, se hace evidente que la versión actualizada del Modelo debe conservar los aciertos de la implementación del anterior Modelo, al tiempo, que corregirá aquellos aspectos que pudo haber generado, sin proponérselo, entre los que se encuentra:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Todas son correctas",
+          "Medición enfocada en el cumplimiento normativo, a través de instrumentos tipo lista de chequeo y poco útiles para promover la eficiencia en la gestión de las entidades públicas.",
+          "Mayor importancia al instrumento de evaluación que al cumplimiento de los propósitos del modelo mismo",
+          "Débil posicionamiento de los ciudadanos, de sus expectativas y de su nivel de satisfacción, como eje central del cumplimiento misional de las entidades",
+        ],
+        respuesta: 1,
+        feedback:
+          "De acuerdo con la pregunta, se concluye que el Modelo Integrado de Planeación y Gestión corrigió sin proponérselo los aspectos enunciados en todas las respuestas, de tal forma que optimice la gestión de las entidades de diferente orden",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El Archivo General de la Nación requiere implementar el proyecto de digitalización de documentos y archivos, con el objetivo de modernizar y optimizar los procesos de esta institución. Para desarrollarlo, requiere un gerente y un equipo de trabajo multidisciplinario que será el directamente responsable de planear y ejecutar las fases. El gerente y el equipo de trabajo definen que, en primera instancia y según los lineamientos de las buenas prácticas, en el inicio del proyecto se debe:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Planear y ejecutar la alternativa adecuada, para soportar los procesos de la entidad, con el fin de no obstaculizar la operación ",
+          "Firmar el acta por la partes interesadas, en la que se deje constancia de las condiciones en las que el proyecto se va a realizar",
+          "Firmar el plan de riesgos por las partes involucradas, y así mitigar los posibles inconvenientes que se vayan presentando.",
+          "Planear los recursos físicos que se van a necesitar para la ejecución, y así evitar inconvenientes con las especificaciones.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Esta respuesta es correcta porque lo primero que se debe hacer es firmar el acta de inicio del proyecto que es donde quedan plasmadas las condiciones para todas las partes que lo conforman, este es el documento por el cual el proyecto se formaliza y queda oficializado, este documento debe contener las entradas, las condiciones en que se va a desarrollar, la lista de entregables, por eso debe ser la primera tarea realizada por el Gerente y el equipo de trabajo.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Cuando una entidad pública oculta intencionalmente información durante el ejercicio permanente de Rendición de Cuentas, está faltando al principio de:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "No discriminación",
+          "Transparencia",
+          "Calidad de la información",
+          "Facilitación",
+        ],
+        respuesta: 2,
+        feedback:
+          "Artículo 3 de la Ley 1712 de 2014: 'Otros principios de la transparencia y acceso a la información pública. En la interpretación del derecho de acceso a la información se deberá adoptar un criterio de razonabilidad y proporcionalidad, así como aplicar los siguientes principios: Principio de transparencia. Principio conforme al cual toda la información en poder de los sujetos obligados definidos en esta ley se presume pública, en consecuencia, de lo cual dichos sujetos están en el deber de proporcionar y facilitar el acceso a la misma en los términos más amplios posibles y a través de los medios y procedimientos que al efecto establezca la ley, excluyendo solo aquello que esté sujeto a las excepciones constitucionales y legales y bajo el cumplimiento de los requisitos establecidos en esta ley.'",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, de encontrar sabiduría.",
+    preguntas: [
+      {
+        pregunta:
+          "Del culto a la oralidad de los antiguos y del culto a los libros en la actualidad podemos afirmar que",
+        opciones: [
+          "Son dos formas de pensamiento similares, pues privilegian ante todo el sentido de sus enseñanzas",
+          "Los antiguos tenían razón, pues gracias a la escritura hoy tenemos conocimiento de su cultura",
+          "Son dos formas de pensamiento, determinadas por necesidades culturales diferentes",
+          "Los antiguos tenían razón, pues en la actualidad se ha perdido la capacidad de escuchar y memorizar las enseñanzas.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Del culto a la oralidad de los antiguos y del culto a los libros en la actualidad podemos afirmar que son dos formas de pensamiento, determinadas por necesidades culturales diferentes, ya que esa antiguas ideas no tienen validez en la actualidad, porque no solo la mente ha cambiado a lo largo de la historia, sino también las necesidades. La curiosidad e ingenuidad del hombre no tiene límites, tanta vertiginosa información, debe estar acumulada en algún lugar, y la mente humana ya no puede con todo",
+      },
+      {
+        pregunta:
+          'La expresión "un periódico se lee para el olvido" se refiere a la:',
+        opciones: [
+          "Abundante información escrita en nuestros días",
+          "Excesiva influencia de los medios impresos de comunicación.",
+          "Naturaleza efímera y cotidiana de dicha publicación",
+          "Naturaleza caótica y dispersa de dicha publicación",
+        ],
+        respuesta: 1,
+        feedback:
+          "La expresión 'un periódico se lee para el olvido' se refiere a la naturaleza efímera y cotidiana de dicha publicación, esto quiere decir, que como es un texto de publicación diaria, lo que allí se lee un día queda inmediatamente reemplazado por lo de la nueva publicación del día siguiente",
+      },
+      {
+        pregunta:
+          "De la relación que se plantea entre oralidad y escritura, se puede deducir que",
+        opciones: [
+          "Lo antiguo estuvo determinado por la oralidad y lo moderno por la escritura",
+          "La memoria está determinada por la oralidad, y el olvido, por la escritura.",
+          "El pasado se conoce gracias a la escritura, y el futuro, a la oralidad.",
+          "La vida tenía que ver con la escritura y la muerte con la oralidad.",
+        ],
+        respuesta: 1,
+        feedback:
+          "De la relación que se plantea entre oralidad y escritura, se puede deducir que lo antiguo estuvo determinado por la oralidad, y lo moderno por la escritura por que los antiguos veían a la palabra escrita como algo muerto y en la actualidad el libro es considerado como uno de los instrumentos más asombrosos que el hombre pudo haber inventado",
+      },
+      {
+        pregunta:
+          "Respecto a los demás inventos, el libro posee una naturaleza distinta, ya que es una extensión de la memoria y la imaginación; esto quiere decir que los libros:",
+        opciones: [
+          "Promueven y estimulan los distintos avances",
+          "Amplían la historia y las fantasías de la humanidad.",
+          "Se encuentran más allá del pasado de la humanidad.",
+          " Están a favor de la tecnología, pero en contra de la tradición.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Respecto a los demás inventos, el libro posee una naturaleza distinta, ya que es una extensión de la memoria y la imaginación; esto quiere decir que los libros amplían la historia y las fantasías de la humanidad, porque si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros, además leer implica imaginar todos esos mundos que los libros nos cuentan.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "En el centro del esquema imaginativo y lingüístico en el que irían a inscribirse miles de discursos y el dinamismo del canto erótico (La voz hablada del deseo) se encuentra una situación tipo, que es la del obstáculo. El deseo que poseo y que me posee se dirige hacía un objeto que, sean cuales sean las modalidades de su fantasma, 'yo' no poseeré jamás en el 'goce', es decir, en la perfecta libertad y la intemporalidad del 'juego' A través de las innumerables variantes que comportan los destinos individuales, el obstáculo está siempre allí, inminente a todo amor. No porque se lo conciba místicamente: el simbolismo cortés primitivo no se despega de la tierra, el obstáculo amoroso está 'significado' en su lenguaje por la condena virtual contra el matrimonio porque implica un derecho de posesión. Correlativamente, la inmanencia del obstáculo se vuelve sensible por la exigencia del secreto: su divulgación mata el amor. A su vez, la retórica del siglo XII, vinculada a este tópico, reposa sobre una doble afirmación fundamental, que se desarrolla en metáforas características: el deseo se identifica con su expresión. Por ese camino ennoblece el ser, que al mismo tiempo lo experimenta y expresa. Nos encontramos, de manera imperceptible, con una de las tendencias espirituales más profundas de la sociedad medieval: el realismo del verbo, la fe casi mágica en la eficacia de la palabra: amar es cantar, el amor reside en el canto; quien canta merece el amor.",
+    preguntas: [
+      {
+        pregunta:
+          "La idea que se refiere al matrimonio como limitante del amor:",
+        opciones: [
+          "Contradice la necesidad de los amantes de mantener su secreto.",
+          "Responde al interés de la sociedad medieval por comprender el deseo",
+          "Corresponde a la forma de pensar de la sociedad del siglo XII",
+          "Es un obstáculo para la creación de las metáforas en el siglo XII.",
+        ],
+        respuesta: 1,
+        feedback:
+          "La idea que se refiere al matrimonio como limitante del amor contradice la necesidad de los amantes de mantener su secreto, porque en el texto el secreto es un obstáculo del amor, no sólo por su carácter sensible, sino también porque la divulgación de este secreto mata el amor",
+      },
+      {
+        pregunta:
+          "Según el texto, el matrimonio implica un derecho de posesión:",
+        opciones: [
+          "Cuando en la voz hablada del deseo interfiere el obstáculo",
+          "Cuando el secreto amoroso es revelado y el amor muere",
+          "Porque este sentimiento mata la manifestación del amor.",
+          "Porque así lo concibe el simbolismo cortés primitivo.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Según el texto el matrimonio implica un derecho de posesión, porque este sentimiento mata la manifestación del amor, ese derecho de poseer y de ser poseído es una condena virtual, porque la libertad individual poco a poca se va perdiendo",
+      },
+      {
+        pregunta: 'La expresión "el deseo que poseo y me posee" es una:',
+        opciones: [
+          "Afirmación general referida a la experiencia personal de quien experimenta la posesión",
+          'Afirmación personal porque existe un "yo" que experimenta un sentimiento de posesión.',
+          "Afirmación particular referida a una situación general propia de la retórica del siglo XII",
+          "Afirmación colectiva porque la experiencia de posesión hace parte de la sociedad medieval",
+        ],
+        respuesta: 3,
+        feedback:
+          'La expresión: "El derecho que yo poseo y me posee" es una afirmación particular referida a la situación general propia de la retórica del siglo XII, este pertenece a otros tópicos que también son de la situación general del siglo XII. ',
+      },
+      {
+        pregunta:
+          "El texto anterior contiene informaciones y discursos que, en relación con la retórica del siglo XII, se refieren a",
+        opciones: [
+          "La estética, la historia y la cultura medievales.",
+          "La cultura, ya que describen la sociedad medieval.",
+          "La moral, la crítica y la religión medievales",
+          "La historia, porque permiten una ubicación temporal.",
+        ],
+        respuesta: 1,
+        feedback:
+          " El texto anterior, contiene informaciones y discursos que, en relación con la retórica del siglo XII, se refieren a la estética, la historia, la cultura medieval, porque se refiere no sólo al amor en esa época determinada, sino también a los términos en los que esas manifestaciones se manejaban",
+      },
+      {
+        pregunta: "El tema del texto anterior es:",
+        opciones: [
+          "El deseo de posesión y su imposibilidad",
+          "El matrimonio que implica un derecho de posesión",
+          "La fe casi mágica en la eficacia de la palabra",
+          "El obstáculo inminente a todo amor",
+        ],
+        respuesta: 3,
+        feedback:
+          'El tema del texto anterior es la fe casi mágica de la importancia de la palabra, el texto se concluye con: "amar es cantar, el amor reside en el canto; quien canta merece el amor". Es este pues el tema general, todo lo dicho anteriormente era el camino que justificaba dicho enunciado.',
+      },
+    ],
+  },
+  {
+    enunciado:
+      'Un piloto de bombardero B-17 durante la Segunda Guerra Mundial, y más tarde guionista de series televisivas del Oeste, posibilitó los viajes espaciales a velocidades lumínicas, desarrolló un sistema capaz de transportar seres humanos gracias a la separación molecular, concibió los teléfonos celulares, proyectó la primera generación de máquinas inteligentes y contribuyó notablemente a la exploración de buena parte del universo. Pocos recuerdan su nombre, y para la comunidad científica mundial es un discreto y redondo cero a la izquierda. Sus ideas, sin embargo, agregaron una buena cantidad de estos ceros a la derecha en su cuenta bancaria y le aseguraron reconocimiento eterno por parte de los fieles cultores de la ciencia ficción. Gene Rodenberry, arquitecto de la más popular serie futurista de todos los tiempos, Star Trek, falleció en 1991, cuando se conmemoraron 25 años de la emisión de The Man Trap, su primer capítulo. \n En 1996 los viajes de la Enterprise celebraron treinta años de lo que comenzó siendo un trivial programa semanal de aventuras espaciales y terminó convirtiéndose en un fenómeno que superó ampliamente los cálculos más optimistas. Lo curioso del asunto es que, en su momento, Viaje a la Estrellas fue producida con restricciones económicas por parte de la cadena NBC. \n Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. Escenarios de cartón, uniformes de tela ordinaria, miniaturas y maquetas fabricadas con materiales de ocasión: la conquista del espacio hecha "con las uñas" pero convertida en una mina de oro prácticamente inagotable. Un potosí galáctico que con los años comenzó a ser explotado como Dios manda por la Paramount Pictures.',
+    preguntas: [
+      {
+        pregunta:
+          "Podemos afirmar que la intención de Gustavo Gómez al escribir el texto es:",
+        opciones: [
+          "Dar información sobre el éxito monetario de la serie Star Trek.",
+          "Criticar el trabajo hecho por Gene Rodenberry en el cine y la televisión",
+          "Demostrar que con poco dinero no se puede hacer un buen trabajo.",
+          "Señalar los percances que tuvo la serie Viaje a las estrellas para ser transmitida",
+        ],
+        respuesta: 1,
+        feedback:
+          "Podemos afirmar que la intención de Gustado Gómez al escribir el texto es dar información sobre el éxito monetario de la serie Star Trek, porque cuenta no solo los beneficios que obtuvo el director de esta serie, sino la cantidad de seguidores que hasta hoy existen",
+      },
+      {
+        pregunta:
+          " El tipo de texto con el que se presenta la información sobre Viaje a las estrellas es:",
+        opciones: [
+          "Periodístico, porque reseña la creación y éxito de la serie Viaje a las estrellas",
+          "Informativo, porque muestra la historia del creador de la serie Viaje a las estrellas",
+          "Descriptivo, porque detalla hechos irreales sucedidos en la nave Enterprise",
+          "Científico, porque muestra los avances de la ciencia para crear naves espaciales",
+        ],
+        respuesta: 3,
+        feedback:
+          "El tipo de texto con el cual se presenta la información sobre viaje a las estrellas es descriptivo, porque detalla hechos irreales sucedidos en la nave enterprise, es decir, que todo lo que se cuenta es con la única intensión de apoyar toda la información que el autor del artículo nos quiere mostrar.",
+      },
+      {
+        pregunta:
+          'Con la expresión "Pocos recuerdan su nombre, y para la comunidad científica mundial es un discreto y redondo cero a la izquierda", Gómez hace alusión a que Gene Rodenberry:',
+        opciones: [
+          "Hizo muchos descubrimientos en el espacio que no fueron aceptados por la comunidad científica",
+          "Consiguió su prestigio con base a falsos descubrimientos que nunca fueron aceptados por los científicos",
+          "Posibilitó la creación de un mundo fantástico e irreal que le aportó mucho al mundo científico.",
+          "Nunca fue científico y, por lo tanto, no aportó al desarrollo de la ciencia",
+        ],
+        respuesta: 4,
+        feedback:
+          'Con la expresión "pocos recuerdan su nombre, y para la comunidad científica mundial es un discreto y redondo cero a la izquierda", Gómez hace alusión a que Rene Rodenberry, nunca fue científico y, por lo tanto, no aportó al desarrollo de la ciencia, este hombre es el director de viaje a las estrellas y sus ideas, son solo de tipo ficticio',
+      },
+      {
+        pregunta:
+          'Con el título "El futuro cumple 30 años", el autor hace alusión',
+        opciones: [
+          "A los viajes que ha realizado la nave Enterprise a otros planetas durante treinta años",
+          "A los adelantos espaciales que se han hecho en los últimos treinta años",
+          "A la cantidad de años que lleva la serie Viaje a las Estrellas, con su nave Enterprise, al aire",
+          "Al recorrido que ha realizado la nave Enterprise por el espacio",
+        ],
+        respuesta: 3,
+        feedback:
+          'Con el título: "el futuro cumple treinta años", el autor hace alusión a la cantidad de años que lleva la serie viaje a las estrellas, con su nave enterprise, al aire. El artículo trata principalmente de esta exitosa serie y la intensión, con el título es llamar la atención del lector y por supuesto, hacer referencia a una serie de tipo futurista',
+      },
+      {
+        pregunta:
+          'La expresión "hecha con las uñas" hace alusión a que la producción de esta serie fue realizada:',
+        opciones: [
+          "Manualmente, porque la tecnología no estaba desarrollada lo suficiente.",
+          "Con pocos materiales, porque era la primera en su género que se hacía.",
+          "Con insuficiente publicidad, porque no se sabía cómo promocionarla.",
+          "Con escaso dinero, porque no se esperaba que tuviera tanto éxito",
+        ],
+        respuesta: 4,
+        feedback:
+          'La expresión "hecha con las uñas", hace alusión a que la producción de esta serie fue realizada con escaso dinero, porque no se esperaba que tuviera tanto éxito, en el texto se habla de: "escenarios de cartón, uniformes de tela ordinaria, miniaturas y maquetas fabricadas con materiales de ocasión,,".',
+      },
+      {
+        pregunta:
+          "Del texto se infiere que el creador de la nave espacial Enterprise pretendió",
+        opciones: [
+          "Obtener reconocimiento y dinero a base de la ingenuidad de los televidentes",
+          "Plasmar sus imaginaciones sobre los viajes espaciales, que terminaron siendo la base de una serie futurista",
+          "Indicar que podría haber vida en otros planetas y ayudar a descubrirla.",
+          "Explorar el espacio con una nueva tecnología y aportar este conocimiento al mundo cientifico.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Del texto se infiere que el creador de la nave enterprise pretendió plasmar sus imaginaciones sobre viajes espaciales, que terminaron siendo la base de una serie futurista, al parecer, Rodenberry, jamas imagino que su idea seria una mina de oro, toda su imaginación fue la pauta para hacer una de las mejores series futuristas de todos los tiempos",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Desde hace un mes dos miembros de su equipo de trabajo, tienen conflictos personales entre ellos y estos conflictos se han visto reflejados en el cumplimiento de sus funciones. Una de ellas indica que la otra no la apoya en las actividades recargándole el trabajo. Como líder del equipo de trabajo, para atender esta situación se asegura de:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Atender personalmente escuchando con respeto y cortesía a las funcionarias, para mitigar las situaciones de tensión que existe entre ellas",
+          "Organizar reuniones con su equipo de trabajo implementando técnicas de negociación dinámicas",
+          "Implementar acciones para que las funcionarias comprendan que trabajan en función de los mismos objetivos yplanes y los apropien.",
+          "Direccionar a Gestión Humana, solicitando a esta dependencia tome las medidas pertinentes",
+        ],
+        respuesta: 3,
+        feedback:
+          'Esta respuesta evidencia la competencia Liderazgo de Grupos de Trabajo, definida como: Asumir el rol de orientar y guía de un grupo o equipo de trabajo, utilizando la autoridad con arreglo a las normas y promoviendo la efectividad en la consecución de objetivos y metas institucionales; A partir la conducta asociada "Asegura que los integrantes del grupo compartan planes, programas y proyectos institucionales". Según lo determinado por el Decreto 1083 de 2015 para el nivel profesional',
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Frecuentemente debe apoyar a un profesional en la clasificación búsqueda de información, esta actividad interrumpe sus tareas porque debe apoyar simultáneamente otras actividades, este profesional es muy demandante en sus solicitudes y le exige realizarlas de forma sistemática como él indica, aunque usted difiere de la metodología; por tanto, él siempre está muy atento a observar la forma como usted las lleva a cabo.",
+    preguntas: [
+      {
+        pregunta:
+          "Cuando debe atender este tipo de solicitudes usted se caracteriza por",
+        opciones: [
+          "Ser proactivo, ya que acata las directrices dadas por él a pesar que no concuerda con estas.",
+          "Adaptarse, de esta forma evita tener dificultades con sus superiores y compañeros de oficina",
+          "Mantenerse calmado, para disimular la incomodidad que le genera que lo observe permanentemente.",
+          "Ser abierto, manifestado sus inconformidades e indicando que tiene otras actividades por desarrollar",
+        ],
+        respuesta: 1,
+        feedback:
+          'Esta respuesta evidencia la competencia Disciplina, definida como: Adaptarse a las políticas institucionales y buscar información de los cambios en la autoridad competente.; A partir la conducta "Acepta instrucciones, aunque se difiera de ellas" Según lo determinado por el Decreto 1083 de 2015 para el nivel técnico',
+      },
+      {
+        pregunta:
+          "Estas circunstancias no revisten inconveniente para usted, ya que se le facilita:",
+        opciones: [
+          "Conservar una actitud de dominio de sí mismo ante las presiones",
+          "Mantener la motivación ante sus labores independiente de la tensión",
+          "Cumplir dedicadamente con las tareas del puesto de trabajo.",
+          "Manejar las situaciones de tensión con actitud positiva",
+        ],
+        respuesta: 3,
+        feedback:
+          'Esta respuesta evidencia la competencia Disciplina, definida como: Adaptarse a las políticas institucionales y buscar información de los cambios en la autoridad competente.; A partir la conducta "Realiza los cometidos y tareas del puesto de trabajo." Según lo determinado por el Decreto 1083 de 2015 para el nivel técnico',
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El jefe de la dependencia donde laboro ha decido realizar unas reuniones semanales de seguimiento con el fin de evaluar el grado de cumplimiento de los programas y los proyectos, así como identificar fortalezas y debilidades. En la última reunión el jefe ha solicitado que se haga retroalimentación unos a otros, motivando a ser muy claros en manifestar aquellas situaciones que pueden estar afectando el logro de las metas; es común en este tipo de reuniones que algunos compañeros, por temor a incomodar a alguien, NO expresen abiertamente sus opiniones y algunas veces las observaciones son tomadas de modo personal y NO laboral. En mi caso, cuando tengo este tipo de oportunidades:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Me gusta hablar de mis aciertos y errores, así como pedir la opinión de los demás sobre mi trabajo, para generar mejoras en mi desempeño y lograr las metas propuestas.",
+          "Comunicó abiertamente lo que pienso, aunque pueda ser incómodo, pues es una oportunidad para mejorar y lograr metas.",
+          "Soy directo con las personas con las que tengo una relación más cercana, pues es una oportunidad para formular mis intenciones.",
+          "Prefiero reservarme lo que pienso y evitar conflictos, pues la personas NO saben diferenciar los asuntos personales de los laborales.",
+        ],
+        respuesta: 2,
+        feedback:
+          'Esta respuesta evidencia la competencia Compromiso con la Organización, definida como: Alinear el propio comportamiento a las necesidades, prioridades y metas organizacionales; A partir la conducta "da prioridad a las necesidades de la organización frente a los propias" de acuerdo con las conductas asociadas definidas para la competencia, según lo determinado por el Decreto 1083 de 2015 como una competencia común a todos los servidores',
+      },
+    ],
+  },
+  {
+    enunciado:
+      " Al finalizar la jornada, el jefe de la dependencia solicita con premura un documento, por lo que me pide que se lo escanee y lo adjunte en un correo. Sin embargo, como esta solicitud se presenta al margen de la hora salida ya tenía un importante compromiso personal que cumplir. En este tipo de casos yo:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Le informo con honestidad al jefe que debo salir a atender un compromiso importante",
+          "Trato de informar del retraso para salir, porque debo atender un requerimiento importante.",
+          "Le solicito a un compañero me ayude con el requerimiento para solucionar la situación.",
+          "Procuro llegar más temprano en la mañana siguiente para atender la solicitud a primera hora",
+        ],
+        respuesta: 2,
+        feedback:
+          'Esta respuesta evidencia la competencia Compromiso con la Organización, definida como: Alinear el propio comportamiento a las necesidades, prioridades y metas organizacionales; A partir la conducta "Antepone las necesidades de la organización a sus propias necesidades "de acuerdo con las conductas asociadas definidas para la competencia, según lo determinado por el Decreto 1083 de 2015 como una competencia común a todos los servidores',
+      },
+    ],
+  },
+  {
+    enunciado:
+      "En su lugar de trabajo se están presentando una serie de rumores y comentarios por los errores y falta de atención de un compañero con el que se comparten diferentes tareas, esto ha ocasionado reprocesos que están alterando el ambiente laboral. Ante esta situación",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Al escuchar los comentarios, decide hablar sobre la experiencia que ha tenido con el compañero",
+          "Les da poca importancia a los comentarios, debido a que su único interés es dedicarse sólo a trabajar.",
+          "Escucha los comentarios quedándose callado y así poder dárselos a conocer luego a su compañero.",
+          "Habla con la persona implicada sobre el rumor, para saber qué es lo que le está sucediendo y así poder entenderlo.",
+        ],
+        respuesta: 4,
+        feedback:
+          "La respuesta con nivel ALTO de mayor ajuste a la competencia es la D porque evidencia que presta atención a los comentarios con el interés de clarificarlos en pro de conservar relaciones cordiales y respetuosas y no caer en malentendidos. Recibe una calificación de 4",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Su jefe le ha solicitado un informe de manera urgente para presentarlo ante las directivas de la entidad, pero faltan algunos datos para su terminación, por lo tanto, se requiere que la mayoría del personal se quede después de terminada su jornada laboral para la elaboración del informe y así tenerlo listo y poderlo presentar ante la junta. Ante esta situación, Usted",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Se queda en la oficina apoyando este proceso con el fin de ayudar en la elaboración del informe y así presentarlo a tiempo ante las directivas.",
+          "Permanece dentro de las instalaciones dispuesto a brindar su colaboración por si se presenta alguna dificultad.",
+          "Se queda después de la jornada laboral terminando un trabajo que tenía pendiente mientras acompaña a sus compañeros.",
+          "De inmediato usted procede a realizar las tareas asociadas al informe y se concentra en completar los datos y cifras que le son requeridas.",
+        ],
+        respuesta: 1,
+        feedback:
+          "a respuesta más ajustada a la competencia es la A, obteniendo 3 puntos porque evidencia proactividad, alineamiento del comportamiento laboral con las metas organizacionales, apoyo a sus directrices y proyectos, sentido de pertenencia.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La división donde usted trabaja, se verá afectada en su totalidad por los diferentes cambios normativos que han surgido en los últimos días; estos cambios normativos obligan a realizar ajustes en la papelería utilizada, los procedimientos efectuados y los informes diarios, mensuales y anuales dela división. Conforme a esta situación, usted:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Investiga con anterioridad todo lo referente a la información relacionada con los futuros cambios, con el fin de estar preparado.",
+          "Estudia los cambios normativos anticipadamente con el fin de adaptarse eficientemente a los futuros cambios.",
+          "Estudia los cambios normativos anticipadamente y elabora un mecanismo que facilite los cambios a realizar sin que cause mayor traumatismo.",
+          "Remite un correo donde solicita se le informen los procedimientos que debe adelantar para ajustar toda la papelería a los cambios normativos señalados.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Nótese que las cuatro respuestas aparentemente son correctas, porque demarcan buenas acciones e intenciones; sin embargo al tener en cuenta una de las competencias del nivel profesional, podemos demarcar que se trata de la competencia. “creatividad e innovación”, por lo tanto, la respuesta es C porque la persona tiene voluntad de ser innovadora con el fin de mejorar un proceso, mientras que la respuesta A, demarca una intensión al buen manejo de la información y la respuesta B, demarca adaptabilidad al cambio y la D no tiene que ver con ninguna de las competencias reguladas en la norma.",
       },
     ],
   },

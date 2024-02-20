@@ -12,7 +12,24 @@ var numEnunciado = 0;
 
 var randAux = 0;
 
+var initRand = true;
+
+var numFrase = 0;
+
+const frases = [
+  "No creo en la suerte, la suerte la fabrico yo.",
+  "No se trata del dinero o conexiones, es la voluntad de trabajar y aprender más que todos.",
+  "Somos los pulpos, los millonarios no están completos, aún faltamos nosotros.",
+  "Tus ingresos únicamente pueden crecer hasta donde tú crezcas.",
+  "Si no tienes lo que quieres entonces trabaja más duro.",
+  "Si no quieres ser un simple pez, aprende a nadar con tiburones.",
+  "Si algo interfiere entre tú y el éxito, apartalo de tu lado.",
+];
+
 export default function Home() {
+  //frases motivacionales
+  const [frase, setFrase] = useState(frases[numFrase]);
+
   // const [numEnunciado, setNumEnunciado] = useState(0);
 
   const [enunciado, setEnunciado] = useState(data[numEnunciado]);
@@ -27,6 +44,10 @@ export default function Home() {
 
   const handleNextQuestion = () => {
     if (preguntaActual + 1 >= enunciado.preguntas.length) {
+      // actualiza frase
+      numFrase = Math.floor(Math.random() * frases.length);
+      setFrase(frases[numFrase]);
+
       // actauliza num aleatorio
 
       randAux = Math.floor(Math.random() * maxEnun);
@@ -40,6 +61,7 @@ export default function Home() {
         numEnunciado = randAux;
       }
       setEnunciado(data[numEnunciado]);
+      //setEnunciado(data[data.length - 1]);
 
       console.log("enunciado", numEnunciado);
       //******/
@@ -61,12 +83,18 @@ export default function Home() {
   };
 
   useEffect(() => {
+    if (initRand) {
+      randAux = Math.floor(Math.random() * maxEnun);
+      setEnunciado(data[randAux]);
+      initRand = false;
+    }
     setPregunta(enunciado.preguntas[preguntaActual]);
   }, [enunciado]);
 
   return (
     <main className="block m-5 ">
-      <h1 className="text-2xl text-amber-500 mb-3">Concursoneitor</h1>
+      <h1 className="text-4xl font-bold text-amber-500 mb-3">Concursoneitor</h1>
+      <p className="text-amber-500 mb-3">{frase}</p>
       <p className="mb-5 text-lg">{enunciado.enunciado}</p>
 
       <div>
@@ -76,15 +104,18 @@ export default function Home() {
           respuesta={pregunta.respuesta}
           revelar={revelar}
           setRevelar={setRevelar}
+          feedback={pregunta.feedback}
         ></Opcion>
       </div>
 
-      <button
-        onClick={() => handleNextQuestion()}
-        className="bg-amber-300 text-black px-4 py-2 rounded-md mt-2"
-      >
-        Siguiente
-      </button>
+      {revelar && (
+        <button
+          onClick={() => handleNextQuestion()}
+          className="bg-amber-300 text-black px-4 py-2 rounded-md mt-3"
+        >
+          Siguiente
+        </button>
+      )}
     </main>
   );
 }

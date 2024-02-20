@@ -1,16 +1,28 @@
 "use client";
 import React, { useEffect, useState } from "react";
 
-const Opcion = ({ opciones, respuesta, revelar, setRevelar }) => {
+const Opcion = ({ opciones, respuesta, revelar, setRevelar, feedback }) => {
+  const [opcionesAleatorias, setOpcionesAleatorias] = useState([]);
+  useEffect(() => {
+    // Generar una copia del arreglo original para no modificarlo directamente
+    const opcionesCopia = opciones.slice();
+
+    // Mezclar las opciones de forma aleatoria
+    opcionesCopia.sort(() => Math.random() - 0.5);
+
+    // Establecer las opciones aleatorias en el estado
+    setOpcionesAleatorias(opcionesCopia);
+  }, [opciones, respuesta]);
+
   return (
     <div>
-      {opciones.map((opcion, indice) => {
+      {opcionesAleatorias.map((opcion, indice) => {
         return (
           <button
             key={indice}
             className={`${
               revelar
-                ? indice === respuesta - 1
+                ? indice === opcionesAleatorias.indexOf(opciones[respuesta - 1])
                   ? "bg-green-500"
                   : "bg-red-500"
                 : "bg-none"
@@ -21,6 +33,11 @@ const Opcion = ({ opciones, respuesta, revelar, setRevelar }) => {
           </button>
         );
       })}
+      {revelar && (
+        <p>
+          <strong>Feedback:</strong> {feedback}
+        </p>
+      )}
     </div>
   );
 };
