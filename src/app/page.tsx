@@ -107,15 +107,15 @@ export default function Home() {
       <p className="text-amber-500 mb-1">{frase}</p>
 
       {racha > 10 ? (
-        <p className="mb-3 text-amber-400">
+        <p className="mb-3 text-amber-500">
           RACHAAA MOSCAA: <strong className="text-xl">{racha}</strong>
         </p>
       ) : racha > 3 ? (
-        <p className="mb-3 text-amber-400">
+        <p className="mb-3 text-amber-500">
           RACHAAA: <strong className="text-xl">{racha}</strong>
         </p>
       ) : (
-        <p className="mb-3 text-amber-400">
+        <p className="mb-3 text-amber-500">
           Racha: <strong className="text-xl">{racha}</strong>
         </p>
       )}
