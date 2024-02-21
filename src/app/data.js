@@ -1185,4 +1185,170 @@ export const data = [
       },
     ],
   },
+  {
+    enunciado:
+      "Un nuevo empleado en una entidad gubernamental necesita entender la estructura básica del Estado colombiano. ¿Cuáles son las ramas del poder público en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Administrativa, Ejecutiva y Legislativa Ejecutiva",
+          "Legislativa y Judicial Ejecutiva",
+          "Legislativa y Consultiva ",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque la Constitución de Colombia establece tres ramas del poder público: Ejecutiva, Legislativa y Judicial.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un empleado de una entidad pública debe colaborar con organismos de control. ¿Cuál de los siguientes es un organismo de control en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Ministerio de Educación",
+          "Contraloría General de la República",
+          "Congreso de la República",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque la Contraloría General de la República es uno de los principales organismos de control en Colombia.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público necesita entender las funciones del Congreso para colaborar en la elaboración de una ley. ¿Cuál es una de las funciones principales del Congreso de la República?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: ["Ejecutar leyes", "Legisla", "Interpretar leyes"],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque una de las funciones principales del Congreso de la República es legislar, es decir, crear o modificar leyes",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un empleado del gobierno local necesita entender el ordenamiento territorial en Colombia para un nuevo proyecto. ¿Cuál es la división territorial básica de Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Provincias y comunas",
+          "Departamentos y municipios",
+          "Estados y ciudades",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque Colombia se divide territorialmente en departamentos y municipios.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está asignado para colaborar en un proceso electoral. ¿Qué entidad es responsable de organizar las elecciones en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Ministerio del Interior",
+          "Registraduría Nacional del Estado Civil",
+          "Consejo Nacional Electoral",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque la Registraduría Nacional del Estado Civil es la entidad encargada de organizar las elecciones en Colombia.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público trabaja en un proyecto que involucra la autonomía territorial de los departamentos. ¿Qué limitaciones enfrentan los departamentos en Colombia respecto a su autonomía territorial?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Los departamentos tienen autonomía pero están sujetos a la Constitución y las leyes nacionales.",
+          "Los departamentos pueden crear sus propias leyes sin restricciones.",
+          "Los departamentos no tienen ninguna forma de autonomía y son completamente dependientes del Gobierno Nacional.",
+        ],
+        respuesta: 1,
+        feedback:
+          "Es correcta porque, aunque los departamentos tienen cierto grado de autonomía para la gestión de sus asuntos, esta autonomía está sujeta a la Constitución y las leyes nacionales",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público necesita entender las funciones del Consejo de Estado para un caso legal en el que está trabajando. ¿Cuál es una de las funciones principales del Consejo de Estado?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Ejecutar las políticas públicas del Gobierno Nacional.",
+          "Supervisar la conducta de los miembros del Congreso. ",
+          "Actuar como tribunal de última instancia en asuntos administrativos.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Es correcta porque el Consejo de Estado actúa como el tribunal de última instancia en asuntos administrativos, resolviendo controversias entre entidades públicas y ciudadanos.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está asignado para colaborar en un proyecto de seguridad nacional. ¿Qué instituciones conforman la Fuerza Pública en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Fuerzas Militares y Fiscalía General",
+          "Policía Nacional y Fiscalía Genera",
+          "Policía Nacional y Fuerzas Militares",
+        ],
+        respuesta: 3,
+        feedback:
+          "Es correcta porque la Fuerza Pública en Colombia está compuesta por las Fuerzas Militares y la Policía Nacional.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público debe colaborar con la Procuraduría General y necesita entender sus funciones. ¿Cuál es una de las funciones del Procurador General de la Nación?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Representar judicialmente al Estado.",
+          "Investigar y sancionar faltas disciplinarias de los servidores públicos.",
+          "Ejercer control fiscal sobre las entidades y organismos del Estado.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque una de las funciones del Procurador General es investigar y sancionar las faltas disciplinarias cometidas por servidores públicos.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público trabaja en un proyecto relacionado con las entidades territoriales indígenas. ¿Qué reconocimiento constitucional tienen las entidades territoriales indígenas en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Son reconocidas como entidades territoriales con autonomía administrativa y financiera.",
+          "No tienen ningún reconocimiento constitucional.",
+          "Son consideradas como parte de los departamentos en los que se encuentran.",
+        ],
+        respuesta: 1,
+        feedback:
+          "Es correcta porque la Constitución de Colombia reconoce a las entidades territoriales indígenas como territorios con autonomía administrativa y financiera.",
+      },
+    ],
+  },
 ];
