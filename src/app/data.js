@@ -1351,4 +1351,498 @@ export const data = [
       },
     ],
   },
+  {
+    enunciado:
+      "Un funcionario público está revisando un proyecto de ley que involucra el principio de subsidiariedad. ¿Cuál de las siguientes afirmaciones mejor describe el principio de subsidiariedad en el contexto del Estado colombiano?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "El Estado debe intervenir en todos los asuntos sociales y económicos para garantizar la equidad.",
+          "El Estado debe abstenerse de intervenir en asuntos que puedan ser gestionados de manera efectiva por entidades más pequeñas o individuos",
+          "El Estado debe intervenir solo cuando las entidades menores o individuos no puedan gestionar eficazmente un asunto, y siempre en una manera que les permita asumir dichas funciones en el futuro.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Es correcta porque el principio de subsidiariedad sostiene que el Estado debe intervenir solo cuando las entidades menores o individuos no puedan gestionar eficazmente un asunto. Además, esta intervención debe ser tal que permita a las entidades menores o individuos asumir esas funciones en el futuro, promoviendo así la autonomía y la autogestión.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está evaluando un proyecto interinstitucional que requiere la colaboración de varias entidades gubernamentales. ¿Cuál de las siguientes afirmaciones refleja mejor el principio de concurrencia en el marco del Estado colombiano?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Las entidades gubernamentales deben operar de forma completamente independiente para mantener su autonomía.",
+          "Una única entidad gubernamental debe asumir la responsabilidad total de un proyecto para garantizar su éxito.",
+          "Diversas entidades gubernamentales pueden compartir responsabilidades y recursos para llevar a cabo funciones o proyectos específicos.",
+        ],
+        respuesta: 3,
+        feedback:
+          "Es correcta porque el principio de concurrencia implica que diferentes niveles de gobierno o entidades gubernamentales pueden y deben colaborar, compartiendo responsabilidades y recursos para la ejecución de funciones o proyectos específicos. Este principio busca la eficiencia y eficacia en la gestión pública.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está trabajando en una iniciativa que involucra tanto a entidades del gobierno como a organizaciones de la sociedad civil. ¿Cuál de las siguientes afirmaciones describe mejor el principio de complementariedad en el contexto del Estado colombiano?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Las entidades gubernamentales deben asumir todas las responsabilidades y funciones, excluyendo la participación de la sociedad civil.",
+          "Las entidades gubernamentales y las organizaciones de la sociedad civil pueden trabajar juntas para alcanzar objetivos comunes, complementando sus respectivas capacidades y recursos.",
+          "Las organizaciones de la sociedad civil deben operar de forma independiente sin interferencia o apoyo del gobierno.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque el principio de complementariedad sugiere que las entidades gubernamentales y las organizaciones de la sociedad civil pueden y deben trabajar juntas para alcanzar objetivos comunes. Este enfoque permite aprovechar las fortalezas y recursos de ambas partes para lograr un impacto más significativo.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está asignado para colaborar con una Unidad Administrativa Especial y necesita entender su naturaleza. ¿Cuál de las siguientes afirmaciones describe mejor las características de una Unidad Administrativa Especial en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Son entidades con autonomía administrativa y financiera, pero sin personería jurídica, creadas para desarrollar funciones administrativas especializadas.",
+          "Son entidades con personería jurídica, autonomía administrativa y financiera, y patrimonio independiente, creadas para gestionar servicios públicos específicos.",
+          "Son entidades que dependen directamente del Presidente de la República y no tienen autonomía administrativa ni financiera.",
+        ],
+        respuesta: 1,
+        feedback:
+          "Es correcta porque las Unidades Administrativas Especiales son entidades del orden nacional que gozan de autonomía administrativa y financiera pero no tienen personería jurídica. Están creadas para desarrollar funciones administrativas especializadas que requieren flexibilidad y agilidad.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está evaluando la posibilidad de crear una Sociedad de Economía Mixta para gestionar un servicio público. ¿Cuál de las siguientes afirmaciones describe mejor las características de una Sociedad de Economía Mixta en Colombia?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Son entidades completamente controladas por el Estado y operan exclusivamente bajo las normas del derecho público.",
+          "Son entidades donde tanto el sector público como el sector privado tienen participación en el capital, y están sujetas a las normas del derecho privado.",
+          "Son entidades donde el Estado tiene una participación minoritaria y no tiene control sobre la gestión de la empresa.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque las Sociedades de Economía Mixta son entidades en las que hay una participación tanto del sector público como del sector privado en el capital, y generalmente operan bajo las normas del derecho privado. Este concepto está respaldado por el Decreto 1333 de 1986, Artículo 194.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público está asignado para colaborar en un proyecto de respuesta a desastres naturales y debe coordinar acciones con la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Tras un fuerte terremoto en una región del país, ¿cuál de las siguientes acciones correspondería principalmente a la UNGRD?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "La UNGRD coordinará las acciones de las entidades del Sistema Nacional de Gestión del Riesgo de Desastres para la respuesta y recuperación. ",
+          "La UNGRD se encargará exclusivamente de la reconstrucción de infraestructuras críticas como hospitales y escuelas.",
+          "La UNGRD delegará todas las responsabilidades de respuesta y recuperación a las entidades territoriales afectadas.",
+        ],
+        respuesta: 1,
+        feedback:
+          "Es correcta porque la principal función de la UNGRD es coordinar las acciones de las diferentes entidades que conforman el Sistema Nacional de Gestión del Riesgo de Desastres para la respuesta y recuperación en casos de desastres naturales. Este rol está respaldado por la Ley 1523 de 2012, que establece el Sistema Nacional de Gestión del Riesgo de Desastres.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Un funcionario público trabaja en el Ministerio de Hacienda y necesita entender el rol del Banco de la República en la estructura del Estado colombiano para un proyecto de política monetaria. ¿Cuál de las siguientes afirmaciones describe mejor la posición del Banco de la República dentro de la estructura del Estado colombiano?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "El Banco de la República es una entidad adscrita al Ministerio de Hacienda y es responsable de ejecutar la política fiscal del país.",
+          "El Banco de la República es una entidad independiente que forma parte del Estado, con autonomía administrativa, patrimonial y técnica, encargada de la política monetaria. ",
+          "El Banco de la República es una entidad del orden territorial que depende directamente de la Presidencia de la República para sus decisiones de política monetaria.",
+        ],
+        respuesta: 2,
+        feedback:
+          "Es correcta porque el Banco de la República es una entidad que, aunque forma parte del Estado, goza de autonomía administrativa, patrimonial y técnica. Su principal función es la de ser el banco central de Colombia, encargado de la política monetaria del país. Este estatus está respaldado por la Constitución Política de Colombia de 1991, en su artículo 372.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Usted ha sido designado como supervisor de un contrato para la construcción de una nueva carretera en una zona rural de Colombia. El contrato se adjudicó a una empresa de construcción reconocida, pero ha habido una serie de problemas importantes en la ejecución del contrato que requieren su atención inmediata. Entre los problemas identificados se encuentran, la empresa contratista ha incumplido repetidamente los plazos acordados para la construcción de diferentes tramos de la carretera. Esto ha generado molestias significativas para la comunidad local, que esperaba una mejora en la conectividad. Por otra parte, ha habido informes de que la empresa está utilizando materiales de construcción de calidad inferior a la especificada en el contrato. Los informes indican que esto podría comprometer la durabilidad y seguridad de la carretera. Por último, la empresa contratista ha solicitado un aumento sustancial en el presupuesto del contrato, alegando que se han encontrado condiciones imprevistas en el terreno que requieren cambios en el diseño y costos adicionales. Sin embargo, usted sospecha que esto podría deberse a una mala planificación inicial por parte de la empresa.",
+    preguntas: [
+      {
+        pregunta:
+          "En relación con el incumplimiento del contratista, usted realiza una revisión exhaustiva con el fin de identificar si se ha monitoreado y controlado el cumplimiento de los plazos establecidos en el contrato, porque está dentro de sus responsabilidades la ejecución de ciertas tareas a excepción de:",
+        opciones: [
+          "Notificar por escrito a la empresa contratista sobre los incumplimientos y solicitar un plan de recuperación.",
+          "Ignorar los retrasos ya que son responsabilidad de la empresa contratista y dar traslado a la aseguradora para que haga efectivas las pólizas de cumplimiento.",
+          "Coordinar con la empresa contratista para ajustar el cronograma y garantizar la finalización oportuna del proyecto.",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "En relación con los materiales de construcción de calidad inferior, usted como supervisor decide:",
+        opciones: [
+          "Aprobar el uso de materiales de calidad inferior para mejorar el tiempo de entrega y cumplir con el cronograma del proyecto.",
+          "Verificar si cumplen con las especificaciones del contrato y las normativas técnicas aplicables.",
+          "Solicitar a la empresa una certificación de la calidad de los materiales utilizados",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "Ante la solicitud de aumento de costos por parte de la empresa contratista, cuál sería su enfoque para determinar si es justificada o no.",
+        opciones: [
+          "Rechazaría la solicitud de aumento de costos sin considerar la documentación proporcionada debido a los reiterados incumplimientos por parte del contratista.",
+          "Solicitaría a la empresa contratista documentación que respalde sus reclamaciones, como informes técnicos, registros de campo y análisis de costos.",
+          "Aprobaría automáticamente la solicitud de aumento de costos sin revisión porque esto ayudaría al contratista a mejorar su flujo de caja.",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      'Usted trabaja como funcionario encargado de la liquidación de contratos en una entidad estatal de Colombia. La entidad ha finalizado un contrato público para la construcción de un hospital en una ciudad importante. Ahora, su responsabilidad es llevar a cabo el proceso de liquidación del contrato. Durante este proceso, usted ha identificado las siguientes circunstancias: Retraso en la entrega, pues la empresa contratista ha entregado el hospital con retrasos significativos con respecto al plazo acordado en el contrato. Esto ha generado problemas de capacidad y atención médica en la ciudad. Incumplimiento de especificaciones técnicas, durante la revisión de la obra, se han evidenciado deficiencias importantes que afectan la funcionalidad y la seguridad del hospital. Algunas áreas no cumplen con las especificaciones técnicas estipuladas en el contrato. Se encuentra también una solicitud de reclamación de costos adicionales debido a lo que la empresa considera "condiciones imprevistas" en el sitio de construcción. Afirma que estos costos no estaban previstos en el contrato original. Por último, se descubre que algunos equipos médicos entregados no cumplen con los estándares de calidad especificados en el contrato.',
+    preguntas: [
+      {
+        pregunta:
+          "En relación con el retraso en la entrega del hospital y en busca de asegurar una liquidación adecuada de este aspecto, usted indica que se debe realizar una serie de acciones entre las que no está:",
+        opciones: [
+          "notificar a la empresa contratista sobre los retrasos y las penalizaciones que aplicarán según las cláusulas contractuales",
+          "otorgar una prórroga indefinida a la empresa contratista sin sanciones por los retrasos, de manera que no se afecte la entrega de la obra.",
+          "documentar de manera detallada la justificación de los retrasos y las consecuencias de acuerdo con el contrato.",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "Ante el incumplimiento de las especificaciones técnicas, para realizar la liquidación del contrato y garantizar que el hospital cumpla con los estándares requeridos, usted sugiere:",
+        opciones: [
+          "ignorar las deficiencias y aprobar la liquidación sin más acciones, pues el plazo para liquidar de manera bilateral se vence en 6 meses.",
+          "no comunicar a la empresa contratista sobre las deficiencias y simplemente aceptar el hospital tal como está para evitar demandas.",
+          "notificar a la empresa contratista sobre las deficiencias y dar un plazo para que realicen las correcciones necesarias",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "En relación con la reclamación de costos adicionales, usted como responsable de realizar la liquidación del contrato, recomienda:",
+        opciones: [
+          "rechazar todas las reclamaciones de costos adicionales sin revisión, sin importar las circunstancias por estar fuera del plazo de ejecución del contrato",
+          "solicitar a la empresa contratista documentación que respalde sus costos adicionales, como informes técnicos y registros de gastos",
+          "reconocer automáticamente todos los costos adicionales sin evaluar su justificación, en contratación siempre es mejor un mal arreglo que un buen pleito.",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "En cuanto a los estándares de calidad en los equipos, usted indica que, en el marco de la liquidación del contrato se debe:",
+        opciones: [
+          "Aceptar los equipos médicos entregados sin importar las deficiencias en calidad.",
+          "aprobar la liquidación sin tener en cuenta la calidad de los equipos médicos, pues esta verificación se debió realizar en el plazo de ejecución contractual.",
+          "notificar a la empresa contratista sobre las deficiencias y solicitar la sustitución de los equipos por otros que cumplan con las especificaciones.",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "El concurso de méritos se utiliza como modalidad de selección para los procesos:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "De carácter excepcional, por lo que su aplicación es de carácter restrictivo",
+          "De selección de consultores o proyectos",
+          "Donde por las características del bien o servicio se pueden utilizar procesos simplificados.",
+          "De carácter complejo y mayor valor.",
+        ],
+        respuesta: 2,
+        feedback: "Ley 1150 de 2007",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Hacen parte del régimen jurídico de la contratación estatal todas estas normas EXCEPTO.",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Decreto 1082 de 2015",
+          "Ley 80 de 1993",
+          "Ley 1523 de 2012",
+          "Ley 1150 de 2007",
+        ],
+        respuesta: 3,
+        feedback:
+          "La Ley 1523 de 2012 implementa la Política Nacional para la Gestión del Riesgo de Desastres.",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Los siguientes procesos se hacen en la etapa precontractual EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Planeación",
+          "Presupuesto",
+          "Firma del contrato",
+          "Proceso de selección",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La licitación pública se utiliza como modalidad de selección para los procesos:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "De carácter excepcional, por lo que su aplicación es de carácter restrictivo ",
+          "De selección de consultores o proyectos ",
+          "Donde por las características del bien o servicio se pueden utilizar procesos simplificados. ",
+          "De carácter complejo y mayor valor. ",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Son principios de la Contratación Pública los siguientes EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: ["Transparencia", "Buena fe", "Economía", "Responsabilidad"],
+        respuesta: 2,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Al momento de identificar un precio artificialmente bajo la entidad realiza las siguientes actividades EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Requerir explicación al proponente de su estructura de costos",
+          "Se consulta el marco único de precios para verificar.",
+          "La explicación debe ser sobre circunstancias objetivas",
+          "El ordenador del gasto toma la decisión de aceptar el precio",
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Hacen parte del ciclo contractual básico las siguientes etapas EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Etapa postcontractual",
+          "Etapa contractual",
+          "Etapa precontractual",
+          "Etapa de negociación",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Son requisitos habilitantes de un proponente los siguientes EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Capacidad jurídica",
+          "Experiencia",
+          "Capacidad financiera",
+          "Calidad de la propuesta",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Son afirmaciones ciertas acerca de la subsanación de propuestas las siguientes EXCEPTO:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Se puede subsanar todo aquello que no otorga puntaje ",
+          "No subsanar implica el rechazo de la oferta",
+          "Se puede requerir subsanar hasta antes de la adjudicación o de la subasta",
+          "Subsanar es un derecho de la entidad",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La selección abreviada se utiliza como modalidad de selección para los procesos:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Donde por las características del bien o servicio se pueden utilizar procesos simplificados. ",
+          "De selección de consultores o proyectos",
+          "De carácter excepcional, por lo que su aplicación es de carácter restrictivo",
+          "De carácter complejo y mayor valor.",
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado: "La Ley 1474 de 2011 también es conocida como:",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Ley de Regalías",
+          "Ley Antitrámites ",
+          "Estatuto Anticorrupción",
+          "Ley de Contratación Administrativa",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Posterior al acta de liquidación qué proceso debe realizar supervisor?",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Cerrar el expediente",
+          "Solicitar paz y salvo ante Contabilidad",
+          "Verificar los pagos al contratista",
+          "Actualización de las pólizas y revisión de las obligaciones.",
+        ],
+        respuesta: 4,
+        feedback:
+          "Para la liquidación se exigirá al contratista la extensión o ampliación, si es del caso, de la garantía del contrato a la estabilidad de la obra, a la calidad del bien o servicio suministrado, a la provisión de repuestos y accesorios, al pago de salarios, prestaciones e indemnizaciones, a la responsabilidad civil y, en general, para avalar las obligaciones que deba cumplir con posterioridad a la extinción del contrato. Artículo 217 Decreto 19 de 2012. ",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "Los requisitos habilitantes en los procesos de selección se utilizan para: ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Identificar los contratistas que quieren participar en un proceso. ",
+          "Dar un puntaje que permita seleccionar las propuestas más económicas ",
+          "Establecer unas condiciones mínimas para los proponentes de tal manera que la Entidad Estatal sólo evalúe las ofertas de aquellos que están en condiciones de cumplir con el objeto del Proceso de Contratación. ",
+          "Aceptar a todos los proponentes para que participen en el proceso de selección debido al principio de publicidad en la contratación. ",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La contratación directa se utiliza como modalidad de selección para los procesos: ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "De selección de consultores o proyectos ",
+          "De carácter complejo y mayor valor. ",
+          "Donde por las características del bien o servicio se pueden utilizar procesos simplificados. ",
+          "De carácter excepcional, por lo que su aplicación es de carácter taxativo ",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "La etapa de ejecución incluye los siguientes procesos EXCEPTO: ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Acta de inicio ",
+          "Firma ",
+          "Aprobación garantías ",
+          "Modificaciones - Prórrogas ",
+        ],
+        respuesta: 2,
+        feedback:
+          "La sub etapa firma, hace parte del perfeccionamiento del contrato. ",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "En la etapa contractual existen los siguientes procesos EXCEPTO: ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Ejecución ",
+          "Perfeccionamiento ",
+          "Pagos ",
+          "Liquidación ",
+        ],
+        respuesta: 4,
+        feedback: "",
+      },
+    ],
+  },
+  {
+    enunciado:
+      "En la etapa post contractual las dos actividades que deben realizarse con un acta de liquidación son ",
+    preguntas: [
+      {
+        pregunta: "",
+        opciones: [
+          "Firmada y enviada a la Contraloría ",
+          "Publicada en el SECOP y enviada a la Contraloría ",
+          "Estar firmada y publicada correctamente en el SECOP ",
+          "Estar firmada y aprobada por las partes ",
+        ],
+        respuesta: 3,
+        feedback: "",
+      },
+    ],
+  },
 ];
