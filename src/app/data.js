@@ -778,4 +778,355 @@ export const data = [
       },
     ],
   },
+  {
+    enunciado:
+      "La DIAN ha identificado fallas recurrentes en la operación de su plataforma tecnológica tanto en ambientes On Premise como en la nube, evidenciadas en incidentes de disponibilidad, debilidades en la gestión de seguridad, dificultades en la administración de bases de datos, directorio activo y procesos de recuperación ante incidentes. Usted hace parte del equipo encargado de analizar la situación operativa de la infraestructura tecnológica y proponer acciones de mejora alineadas con las políticas, normas y estándares institucionales.",
+
+    preguntas: [
+      {
+        pregunta:
+          "1. Frente a los eventos reportados en centros de cómputo, servidores y red de comunicaciones, la primera acción que debe realizar el equipo responsable, de acuerdo con las funciones del cargo, es:",
+        opciones: [
+          "documentar únicamente el impacto del incidente para fines estadísticos.",
+          "registrar y atender los eventos conforme a las políticas, normas y estándares institucionales.",
+          "escalar automáticamente todos los incidentes al proveedor externo de servicios."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "2. Para garantizar la adecuada operación de los sistemas gestores de bases de datos (SGBD) y del directorio activo de la Entidad, el servidor público debe principalmente:",
+        opciones: [
+          "realizar únicamente actividades de soporte correctivo cuando se presenten fallas.",
+          "registrar y atender los eventos de estas plataformas de acuerdo con las políticas y estándares institucionales.",
+          "limitar su actuación a la generación de reportes de disponibilidad mensual."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "3. Cuando la Entidad decide implementar nuevos servicios en la nube para su plataforma de productividad, una función esencial del cargo es:",
+        opciones: [
+          "adquirir directamente los servicios tecnológicos sin validación institucional.",
+          "registrar y atender el desarrollo y las acciones de la plataforma tecnológica, conforme a los lineamientos definidos por la Entidad.",
+          "delegar completamente el diseño de la solución al proveedor de nube."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "4. En un proceso de modernización tecnológica de la DIAN, la responsabilidad principal del servidor público es:",
+        opciones: [
+          "atender y ejecutar la transformación de la plataforma tecnológica de acuerdo con políticas, normas, estándares y necesidades institucionales.",
+          "implementar únicamente cambios solicitados por usuarios finales sin validación técnica.",
+          "priorizar soluciones individuales sin considerar la arquitectura institucional."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "5. Ante una interrupción crítica de los servicios de información y aplicaciones institucionales, la función relacionada con la continuidad del servicio corresponde a:",
+        opciones: [
+          "realizar auditorías financieras sobre los contratos tecnológicos.",
+          "notificar el monitoreo de la plataforma y aplicar estrategias de recuperación de los servicios ante incidentes o desastres.",
+          "reemplazar la infraestructura afectada sin análisis previo."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "6. Cuando se detectan vulnerabilidades en los componentes de la infraestructura tecnológica, el servidor público debe:",
+        opciones: [
+          "aplicar ajustes en los diferentes componentes de la plataforma en cumplimiento de las políticas de seguridad de la Entidad.",
+          "esperar instrucciones externas para ejecutar cualquier cambio.",
+          "limitarse a informar la situación sin realizar acciones técnicas."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "7. En relación con el licenciamiento de software adquirido por la DIAN, una función esencial del cargo es:",
+        opciones: [
+          "administrar y atender los eventos asociados al licenciamiento de acuerdo con las políticas, normas y estándares institucionales.",
+          "autorizar la instalación de software sin validar contratos ni condiciones.",
+          "centralizar únicamente la compra de licencias sin gestión posterior."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "8. Para asegurar que la operación de la plataforma tecnológica cumpla estándares nacionales e internacionales, el servidor público debe:",
+        opciones: [
+          "ajustar la plataforma según prácticas individuales del equipo técnico.",
+          "registrar y atender el desarrollo y las acciones de la plataforma conforme a los lineamientos definidos por la Entidad.",
+          "implementar soluciones tecnológicas sin procesos de control."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "9. En el marco de la atención de eventos tecnológicos en ambientes On Premise y Cloud, la gestión correcta de los incidentes implica:",
+        opciones: [
+          "tratar los incidentes únicamente cuando afecten a usuarios externos.",
+          "registrar, atender y documentar los eventos de acuerdo con las políticas y estándares institucionales.",
+          "cerrar los casos una vez se restablezca el servicio, sin trazabilidad."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "10. Las funciones comunes a todos los empleos de la planta de personal de la Entidad se caracterizan principalmente por:",
+        opciones: [
+          "depender exclusivamente de la formación profesional del servidor público.",
+          "estar definidas de acuerdo con el nivel, grado de responsabilidad y área de desempeño del empleo.",
+          "aplicarse únicamente a los cargos de nivel directivo."
+        ],
+        respuesta: 2,
+        feedback: "",
+      }
+    ]
+  },
+  {
+    enunciado:
+      "Durante una auditoría interna a la plataforma tecnológica de la DIAN, se evidenciaron debilidades en la gestión de cambios, control de activos tecnológicos, aseguramiento de niveles de servicio, documentación operativa, análisis de riesgos y articulación entre equipos de operación, seguridad y arquitectura. Usted hace parte del equipo encargado de proponer mejoras para fortalecer la gestión integral de la infraestructura tecnológica On Premise y en la nube.",
+
+    preguntas: [
+      {
+        pregunta:
+          "11. Para evitar afectaciones en la operación de la plataforma tecnológica durante la implementación de cambios, una práctica acorde con las funciones del cargo es:",
+        opciones: [
+          "ejecutar los cambios directamente en producción para reducir tiempos.",
+          "registrar y atender las acciones de la plataforma conforme a los lineamientos y estándares definidos por la Entidad.",
+          "autorizar cambios de forma verbal entre los equipos técnicos."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "12. En la administración de activos de infraestructura tecnológica (servidores, almacenamiento y dispositivos de red), el enfoque correcto es:",
+        opciones: [
+          "mantener inventarios únicamente para efectos contables.",
+          "gestionar los componentes conforme a políticas, normas y estándares institucionales.",
+          "registrar solo los activos que presenten fallas."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "13. Cuando se definen acuerdos de niveles de servicio (SLA) para plataformas On Premise y Cloud, el servidor público debe:",
+        opciones: [
+          "alinear la operación y atención de eventos a los compromisos institucionales establecidos.",
+          "ajustar los tiempos de atención según la carga operativa del equipo.",
+          "aplicar los acuerdos únicamente a los proveedores externos."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "14. Frente a la falta de documentación técnica actualizada de la infraestructura tecnológica, una acción coherente con el cargo es:",
+        opciones: [
+          "conservar únicamente manuales de fabricantes.",
+          "registrar y mantener la información de la plataforma conforme a los procedimientos institucionales.",
+          "delegar la documentación exclusivamente a los proveedores."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "15. Para fortalecer la gestión de riesgos tecnológicos de la Entidad, el servidor público debe principalmente:",
+        opciones: [
+          "identificar, registrar y atender los riesgos asociados a los componentes de la plataforma de acuerdo con las políticas institucionales.",
+          "gestionar solo los riesgos que se materialicen en incidentes.",
+          "trasladar el análisis de riesgos al área financiera."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "16. Cuando se planea una ampliación de capacidad de cómputo y almacenamiento en la nube, una responsabilidad del cargo es:",
+        opciones: [
+          "aprovisionar recursos sin validación técnica previa.",
+          "alinear la ampliación a las necesidades institucionales y a los lineamientos definidos por la Entidad.",
+          "contratar recursos de forma independiente por cada dependencia."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "17. Para asegurar la correcta articulación entre los equipos de operación, seguridad y arquitectura, el servidor público debe:",
+        opciones: [
+          "coordinar las acciones técnicas conforme a los procedimientos y estándares institucionales.",
+          "centralizar todas las decisiones técnicas en un solo rol operativo.",
+          "permitir que cada equipo defina procesos independientes."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "18. En la administración de plataformas híbridas (On Premise y Cloud), un principio clave para la operación es:",
+        opciones: [
+          "tratar cada ambiente como una infraestructura aislada.",
+          "gestionar los componentes bajo un modelo unificado alineado a políticas y estándares institucionales.",
+          "aplicar controles solo sobre los servicios críticos."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "19. Para garantizar la trazabilidad de incidentes, problemas y solicitudes sobre la plataforma tecnológica, se debe:",
+        opciones: [
+          "registrar y gestionar los eventos mediante los mecanismos definidos por la Entidad.",
+          "documentar únicamente los casos de alta criticidad.",
+          "cerrar los casos una vez se restaure el servicio sin registros adicionales."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "20. Frente a los requerimientos de cumplimiento normativo y auditorías de tecnología, la función del cargo implica:",
+        opciones: [
+          "preparar información únicamente cuando sea solicitada por entes de control.",
+          "asegurar que la operación de la plataforma tecnológica se encuentre alineada con políticas, normas y estándares institucionales.",
+          "delegar completamente la atención de auditorías al área jurídica."
+        ],
+        respuesta: 2,
+        feedback: "",
+      }
+    ]
+  },
+  {
+    enunciado:
+      "En el proceso de fortalecimiento de la operación tecnológica de la DIAN, se han identificado necesidades relacionadas con la gestión de capacidad, disponibilidad, continuidad del negocio, respaldo de la información, control de accesos, configuración de la infraestructura y seguimiento a proveedores de servicios tecnológicos. Usted hace parte del equipo encargado de estructurar acciones para mejorar estos frentes de la plataforma tecnológica institucional.",
+
+    preguntas: [
+      {
+        pregunta:
+          "21. Para asegurar que la plataforma tecnológica soporte el crecimiento de los servicios institucionales, una acción prioritaria es:",
+        opciones: [
+          "incrementar recursos de infraestructura sin análisis previo.",
+          "gestionar la capacidad de los componentes tecnológicos conforme a las necesidades y lineamientos institucionales.",
+          "adquirir infraestructura según la disponibilidad presupuestal del periodo."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "22. Frente a la necesidad de mejorar la disponibilidad de los servicios críticos de la DIAN, el servidor público debe:",
+        opciones: [
+          "definir esquemas de alta disponibilidad alineados con políticas, normas y estándares institucionales.",
+          "implementar soluciones de contingencia sin validación técnica.",
+          "priorizar únicamente los servicios utilizados por áreas misionales."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "23. En la gestión de continuidad del negocio para la plataforma tecnológica, una responsabilidad coherente con el cargo es:",
+        opciones: [
+          "realizar simulacros únicamente cuando se presenten incidentes mayores.",
+          "aplicar estrategias de recuperación y continuidad de acuerdo con los procedimientos establecidos.",
+          "definir planes de continuidad de manera independiente por cada equipo."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "24. Para proteger la información institucional ante fallas o pérdida de datos, el servidor público debe:",
+        opciones: [
+          "realizar respaldos de información conforme a las políticas y procedimientos definidos por la Entidad.",
+          "almacenar copias de seguridad en cualquier medio disponible.",
+          "delegar completamente los respaldos a los proveedores."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "25. En la administración de accesos a plataformas tecnológicas, una práctica alineada con las funciones del cargo es:",
+        opciones: [
+          "asignar accesos según solicitudes informales de los usuarios.",
+          "gestionar identidades y accesos de acuerdo con políticas de seguridad institucionales.",
+          "permitir accesos permanentes a todos los servicios."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "26. Para mantener la estabilidad de la infraestructura tecnológica, la gestión de configuraciones debe orientarse a:",
+        opciones: [
+          "registrar y controlar las configuraciones de los componentes conforme a estándares institucionales.",
+          "modificar configuraciones directamente en producción.",
+          "documentar únicamente los cambios mayores."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "27. En el seguimiento a proveedores de servicios tecnológicos, el servidor público debe:",
+        opciones: [
+          "verificar el cumplimiento de los compromisos contractuales y de servicio establecidos.",
+          "intervenir directamente en la operación interna de los proveedores.",
+          "evaluar solo los costos asociados al contrato."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "28. Para fortalecer la seguridad de la plataforma tecnológica institucional, una acción clave es:",
+        opciones: [
+          "implementar controles de seguridad de acuerdo con las políticas definidas por la Entidad.",
+          "habilitar herramientas de seguridad sin análisis de riesgos.",
+          "restringir servicios únicamente durante auditorías."
+        ],
+        respuesta: 1,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "29. En la gestión de ambientes de prueba, preproducción y producción, una práctica adecuada es:",
+        opciones: [
+          "utilizar un mismo entorno para todas las etapas.",
+          "mantener la segregación de ambientes conforme a los lineamientos institucionales.",
+          "permitir accesos cruzados entre ambientes."
+        ],
+        respuesta: 2,
+        feedback: "",
+      },
+      {
+        pregunta:
+          "30. Para el control de versiones de componentes de infraestructura y plataformas tecnológicas, el servidor público debe:",
+        opciones: [
+          "actualizar componentes únicamente cuando se presenten fallas.",
+          "gestionar versiones y actualizaciones conforme a políticas y procedimientos institucionales.",
+          "permitir que cada equipo defina su propio esquema de versiones."
+        ],
+        respuesta: 2,
+        feedback: "",
+      }
+    ]
+  }
 ];
